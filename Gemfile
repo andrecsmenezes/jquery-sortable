@@ -5,7 +5,7 @@ gem 'thin'
 gem 'sass', '~> 3.1.0'
 
 gem 'compass'
-gem 'middleman', '>= 3'
+gem 'middleman', '>= 4.4.0'
 
 gem 'guard-livereload'
 gem 'rack-livereload'
