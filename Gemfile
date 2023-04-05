@@ -1,13 +1,13 @@
 source "http://rubygems.org"
 
-gem 'thin'
+gem 'thin', '>= 1.7.0'
 
 gem 'sass', '~> 3.1.0'
 
 gem 'compass'
-gem 'middleman', '>= 3'
+gem 'middleman', '>= 4.4.0'
 
-gem 'guard-livereload'
+gem 'guard-livereload', '>= 2.5.2'
 gem 'rack-livereload'
 
 gem 'rack-coderay'
